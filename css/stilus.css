@@ -1,0 +1,48 @@
+.navbar {
+    background-color: wheat;
+}
+h2{
+    color: darkblue;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 8px ;
+    font-size: 1.1em;
+}
+footer{
+    background-color: cornsilk;
+    text-align: center;
+}
+h3{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+ul{
+    display: inline-block;
+}
+ul.a{
+
+    text-align: right;
+    list-style: none;
+}
+ul.b{
+    text-align: left;
+    list-style: none;
+}
+.card-header{
+    background-color: lightblue;
+    color: darkblue;
+}
+.card-footer{
+    background-color: lightblue;
+    text-align: center;
+}
+thead{
+    letter-spacing: 2px; 
+    text-transform: uppercase;
+    text-align: center;
+}
+.table{
+    background-color: cornsilk;
+    border-color: lightblue;
+    font-size: 0.7em;
+}
